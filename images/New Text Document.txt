@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=chennai&appid={ee347c6b028fe42cbcc44ae1178def7a}
